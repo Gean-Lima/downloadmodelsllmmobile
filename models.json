@@ -29,6 +29,21 @@
       "name": "Qwen2.5-1.5B-Instruct-Q8_0.gguf",
       "size": "1.65 GB",
       "download": "https://huggingface.co/neootaku/Qwen2.5-1.5B-Instruct-GGUF/blob/main/Qwen2.5-1.5B-Instruct-Q8_0.gguf"
+    },
+    {
+      "name": "Phi-3.1-mini-128k-instruct-Q4_K_M.gguf",
+      "size": "2.39 GB",
+      "download": "https://huggingface.co/neootaku/Phi-3.1-mini-128k-instruct-GGUF/blob/main/Phi-3.1-mini-128k-instruct-Q4_K_M.gguf"
+    },
+    {
+      "name": "Phi-3.1-mini-128k-instruct-Q6_K.gguf",
+      "size": "3.14 GB",
+      "download": "https://huggingface.co/neootaku/Phi-3.1-mini-128k-instruct-GGUF/blob/main/Phi-3.1-mini-128k-instruct-Q6_K.gguf"
+    },
+    {
+      "name": "Phi-3.1-mini-128k-instruct-Q8_0.gguf",
+      "size": "4.06 GB",
+      "download": "https://huggingface.co/neootaku/Phi-3.1-mini-128k-instruct-GGUF/blob/main/Phi-3.1-mini-128k-instruct-Q8_0.gguf"
     }
   ]
 }
