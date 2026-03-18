@@ -1,11 +1,6 @@
 {
   "models": [
     {
-      "name": "Llama-3.2-1B-Instruct-Q3_K_L.gguf",
-      "size": "733 MB",
-      "download": "https://huggingface.co/neootaku/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q3_K_L.gguf"
-    },
-    {
       "name": "Llama-3.2-1B-Instruct-Q4_K_M.gguf",
       "size": "808 MB",
       "download": "https://huggingface.co/neootaku/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf"
@@ -19,6 +14,21 @@
       "name": "Llama-3.2-1B-Instruct-Q8_0.gguf",
       "size": "1.32 GB",
       "download": "https://huggingface.co/neootaku/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q8_0.gguf"
+    },
+    {
+      "name": "Qwen2.5-1.5B-Instruct-Q4_K_M.gguf",
+      "size": "986 MB",
+      "download": "https://huggingface.co/neootaku/Qwen2.5-1.5B-Instruct-GGUF/blob/main/Qwen2.5-1.5B-Instruct-Q4_K_M.gguf"
+    },
+    {
+      "name": "Qwen2.5-1.5B-Instruct-Q6_K.gguf",
+      "size": "1.27 GB",
+      "download": "https://huggingface.co/neootaku/Qwen2.5-1.5B-Instruct-GGUF/blob/main/Qwen2.5-1.5B-Instruct-Q6_K.gguf"
+    },
+    {
+      "name": "Qwen2.5-1.5B-Instruct-Q8_0.gguf",
+      "size": "1.65 GB",
+      "download": "https://huggingface.co/neootaku/Qwen2.5-1.5B-Instruct-GGUF/blob/main/Qwen2.5-1.5B-Instruct-Q8_0.gguf"
     }
   ]
 }
