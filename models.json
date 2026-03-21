@@ -168,5 +168,22 @@
       "notes": "Melhor qualidade da lista, mas exige device high-end",
       "download": "https://huggingface.co/neootaku/Phi-3.1-mini-128k-instruct-GGUF/blob/main/Phi-3.1-mini-128k-instruct-Q8_0.gguf"
     }
+  ],
+  "embeddings": [
+    {
+      "name": "embeddinggemma-300M_seq256_mixed-precision.tflite",
+      "size": "179 MB",
+      "download": "https://huggingface.co/litert-community/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq256_mixed-precision.tflite"
+    },
+    {
+      "name": "embeddinggemma-300M_seq512_mixed-precision.tflite",
+      "size": "179 MB",
+      "download": "https://huggingface.co/litert-community/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq512_mixed-precision.tflite"
+    },
+    {
+      "name": "embeddinggemma-300M_seq1024_mixed-precision.tflite",
+      "size": "183 MB",
+      "download": "https://huggingface.co/litert-community/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq1024_mixed-precision.tflite"
+    }
   ]
 }
