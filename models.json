@@ -173,17 +173,17 @@
     {
       "name": "embeddinggemma-300M_seq256_mixed-precision.tflite",
       "size": "179 MB",
-      "download": "https://huggingface.co/litert-community/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq256_mixed-precision.tflite"
+      "download": "https://huggingface.co/neootaku/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq256_mixed-precision.tflite"
     },
     {
       "name": "embeddinggemma-300M_seq512_mixed-precision.tflite",
       "size": "179 MB",
-      "download": "https://huggingface.co/litert-community/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq512_mixed-precision.tflite"
+      "download": "https://huggingface.co/neootaku/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq512_mixed-precision.tflite"
     },
     {
       "name": "embeddinggemma-300M_seq1024_mixed-precision.tflite",
       "size": "183 MB",
-      "download": "https://huggingface.co/litert-community/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq1024_mixed-precision.tflite"
+      "download": "https://huggingface.co/neootaku/embeddinggemma-300m/blob/main/embeddinggemma-300M_seq1024_mixed-precision.tflite"
     }
   ]
 }
